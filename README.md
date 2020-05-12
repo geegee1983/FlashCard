@@ -1,0 +1,2 @@
+# FlashCard
+This flashcard program allows the user to choose entry from an easy or hard glossary. In response, the program randomly picks an entry from the chosen glossary entries. It shows the entry. After the user presses return, the program shows the definition of that particular entry. The user can repeatedly ask for an entry from both glossaries and also has the option to quit the program instead of seeing another entry.
